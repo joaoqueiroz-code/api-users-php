@@ -1,4 +1,4 @@
-<a target="_blank" href="https://joao-queiroz.gitbook.io/apiusers">Documentação da API Users</a>
+<a href="https://joao-queiroz.gitbook.io/apiusers" target="_blank">Documentação da API Users</a>
 
 ## Iniciando o projeto:
 - Requisitos: XAMPP PHP +7.4; 
