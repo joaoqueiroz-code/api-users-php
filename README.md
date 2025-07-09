@@ -4,12 +4,6 @@ Este projeto é uma API RESTful simples para gerenciamento de usuários, desenvo
 
 ---
 
-## 🚀 Sobre o Projeto
-
-A API foi construída para fins didáticos e para servir como base para estudos ou testes de integração frontend. Ela oferece endpoints para criar, listar, buscar por ID, atualizar e deletar usuários.
-
----
-
 ## ⚙️ Tecnologias e Ferramentas
 
 - **PHP** (versão 7.4 ou superior)
