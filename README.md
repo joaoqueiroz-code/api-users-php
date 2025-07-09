@@ -31,10 +31,6 @@ git clone https://github.com/joaoqueiroz-code/api-users-php.git
 
 2️⃣ Mova a pasta do projeto para o diretório `htdocs` do XAMPP:
 
-```bash
-mv api-users-php /caminho/para/seu/htdocs/
-```
-
 3️⃣ Inicie o Apache e MySQL no painel do XAMPP.
 
 4️⃣ Crie o banco de dados:
